@@ -1,11 +1,11 @@
 public class MadLib {
 
-    // Step 3: Defining all the variables
+    // The variables
     public String classmate;
     public String city;
     public String noun;
     public String adjective;
-    public  String pluralNoun;
+    public String pluralNoun;
     public String pluralAnimal;
     public boolean trueOrFalse;
     public double decimalBiggerThan1;
@@ -36,7 +36,7 @@ public class MadLib {
            trueOrFalse = false;
            decimalBiggerThan1 = 22.2;
             number1 = 7;
-           number2 = 7;
+           number2 = 8;
            wholeNumberBetween1And4 = 2;
            miltonTeacher = "Ms. Nazarali";
             miltonDean = "Mr.Leanord";letterGrade = 'A';
